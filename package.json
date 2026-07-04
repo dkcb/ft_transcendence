@@ -1,0 +1,6 @@
+{
+  "name": "ft_transcendence",
+  "dependencies": {
+    "react-router-dom": "^6.26.0"
+  }
+}
